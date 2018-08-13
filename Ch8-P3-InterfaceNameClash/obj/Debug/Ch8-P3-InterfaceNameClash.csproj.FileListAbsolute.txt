@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch8-P3-InterfaceNameClash\Ch8-P3-InterfaceNameClash\bin\Debug\Ch8-P3-InterfaceNameClash.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch8-P3-InterfaceNameClash\Ch8-P3-InterfaceNameClash\bin\Debug\Ch8-P3-InterfaceNameClash.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch8-P3-InterfaceNameClash\Ch8-P3-InterfaceNameClash\bin\Debug\Ch8-P3-InterfaceNameClash.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch8-P3-InterfaceNameClash\Ch8-P3-InterfaceNameClash\obj\Debug\Ch8-P3-InterfaceNameClash.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch8-P3-InterfaceNameClash\Ch8-P3-InterfaceNameClash\obj\Debug\Ch8-P3-InterfaceNameClash.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch8-P3-InterfaceNameClash\Ch8-P3-InterfaceNameClash\obj\Debug\Ch8-P3-InterfaceNameClash.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch8-P3-InterfaceNameClash\Ch8-P3-InterfaceNameClash\obj\Debug\Ch8-P3-InterfaceNameClash.pdb

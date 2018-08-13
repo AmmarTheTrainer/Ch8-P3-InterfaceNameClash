@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IDrawToForm.cs" />
+    <Compile Include="IDrawToMemory.cs" />
+    <Compile Include="IDrawToPrinter.cs" />
+    <Compile Include="Octagon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
