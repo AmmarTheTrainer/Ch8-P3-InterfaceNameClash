@@ -17,8 +17,6 @@ namespace Ch8_P3_InterfaceNameClash
 
             #region Without Explicit Interface Implementation
 
-
-
             //IDrawToForm itfForm = (IDrawToForm)oct;
             //itfForm.Draw();
 
